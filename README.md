@@ -2,13 +2,13 @@ Projeto de avaliação individual da disciplina de React Native (desenvolvimento
 
 O objetivo deste projeto é desenvolver a tela de um aplicativo de escolha livre, seguindo os critérios abaixo:
 
-> Clone de uma página de uma aplicação Real
-> Pelo menos 2 componentes
-> Deve ser realizada via link do repositório no GitHub.
-> Enviar o Link no repositório da turma, na pasta trabalho-individual.
-> Basta fazer um fork, adicionar um arquivo SeuNome.md e abrir um Pull Request
-> Deve conter um Readme.md com informações sobre o projeto
-> Deve conter um print da página da aplicação real e um print da sua tela
+Clone de uma página de uma aplicação Real
+Pelo menos 2 componentes
+Deve ser realizada via link do repositório no GitHub.
+Enviar o Link no repositório da turma, na pasta trabalho-individual.
+Basta fazer um fork, adicionar um arquivo SeuNome.md e abrir um Pull Request
+Deve conter um Readme.md com informações sobre o projeto
+Deve conter um print da página da aplicação real e um print da sua tela
 
 Imagem de referência para a execução do trabalho:
 
